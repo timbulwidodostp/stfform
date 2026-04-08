@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p rrlogit Logistic regression for randomized response data Use rrlogit With STATA 19

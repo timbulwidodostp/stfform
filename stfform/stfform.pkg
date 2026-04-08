@@ -1,0 +1,7 @@
+D 'rrlogit': Logistic regression for randomized response data Use rrlogit With STATA 19
+D
+F rrlogit.ado
+F rrlogit.hlp
+F rrlogit_lf.ado
+F rrlogit_p.ado
+F rrlogit_postestimation.hlp
